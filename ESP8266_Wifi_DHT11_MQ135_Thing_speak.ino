@@ -11,7 +11,7 @@ int dht11Pin = 2;
 String ip = "184.106.153.149";                                //Thingspeak ip adresi
 float sicaklik, nem;
 
-int gazsensorpin=0;                         // analog hava kalite sensorü girişi analog 
+int gazsensorpin=0;                          // analog hava kalite sensorü girişi analog 
 
 
 dht11 DHT11;
